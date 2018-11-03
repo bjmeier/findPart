@@ -1,0 +1,23 @@
+{
+    "ffw": 3,
+    "ffh": 3,
+    "ffbLow": 5,
+    "ffgLow": 5,
+    "ffrLow": 5,
+    "ffbHigh": 5,
+    "ffgHigh": 5,
+    "ffrHigh": 5,
+    "lowH": 0,
+    "lowS": 0,
+    "lowV": 0,
+    "highH": 180,
+    "highS": 255,
+    "highV": 230,
+    "blurSlider": 1,
+    "edgeSlider": 1,
+    "CannyLowPct": 50,
+    "CannyHigh": 180,
+    "closeSlider": 2,
+    "openSlider": 1,
+    "selectedMethod": 2
+}
